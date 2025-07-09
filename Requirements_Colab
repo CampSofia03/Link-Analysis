@@ -1,0 +1,6 @@
+
+!pip install kaggle
+!apt-get install -y python3-cairo
+!pip install pycairo
+!pip install python-igraph
+!pip install pyvis
