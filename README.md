@@ -2,6 +2,11 @@
 
 This project analyzes user interactions within a book review network using graph theory and the PageRank algorithm. It identifies the most influential users not by the number of reviews they post, but by how strategically they are connected in the user–user network.
 
+
+## 📦 Requirements
+
+Before running the scripts, install the required packages in Requirements_Colab
+
 ## Google Colab
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CampSofia03/Link-Analysis/blob/main/LinkAnalysis.ipynb)
