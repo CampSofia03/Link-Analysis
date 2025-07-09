@@ -3,7 +3,7 @@
 This project analyzes user interactions within a book review network using graph theory and the PageRank algorithm. It identifies the most influential users not by the number of reviews they post, but by how strategically they are connected in the user–user network.
 
 
-## 📦 Requirements
+## Requirements
 
 Before running the scripts, install the required packages in Requirements_Colab
 
